@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devyansh Popli</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devyanshpopli&label=Profile%20views&color=0e75b6&style=flat" alt="devyanshpopli" /> </p>
 
